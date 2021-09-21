@@ -20,7 +20,7 @@ star pattern with your name in it
 ```
 cd unique-star-patternz
 
-python3 k.py
+bash k.sh
 ```
 ### sample.txt file
 - >run
