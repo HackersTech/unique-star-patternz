@@ -1,7 +1,6 @@
 # unique-star-patternz
 ## star pattern with your name in it 
-### python
-
+----
 
 
 # tested on
@@ -24,7 +23,7 @@ python3 k.py
 ```
 ### sample.txt file
 - >run
-image![](https://github.com/HackersTech/unique-star-patternz/blob/main/IMG-20210911-WA0000.jpeg)
+image![](https://github.com/HackersTech/unique-star-patternz/blob/main/IMG20210916154945.jpg)
 ---
 ### support us and follow on 
 
