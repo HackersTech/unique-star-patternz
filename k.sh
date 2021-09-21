@@ -12,3 +12,4 @@ echo   """
 ||      ||            ##
 """
 				
+python3 k.py
