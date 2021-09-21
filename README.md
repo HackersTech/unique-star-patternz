@@ -1,5 +1,5 @@
 # unique-star-patternz
-## star pattern with your name in it 
+star pattern with your name in it 
 ----
 
 
