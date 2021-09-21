@@ -1,2 +1,5 @@
 # unique-star-patternz
-star pattern with your name in it #beautiful #hackers #python
+## star pattern with your name in it 
+### python
+
+requirements- 
