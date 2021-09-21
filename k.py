@@ -1,4 +1,5 @@
-
+##[ hackers tech ]### 
+#Powered by Alien Ghost 
 n=6
 kk = input("enter your name(some letters)-:")
 ml = int(input("base symbol multiply enter number [0 to 10](recommended=5 or 6) "))
